@@ -1,5 +1,5 @@
 saldo = 1000
-print("--- BIENVENIDO AL CAJERO ---")
+print("BIENVENIDOs AL CAJERO")
 
 while True:
     print(f"\nTu saldo actual es: ${saldo}")
